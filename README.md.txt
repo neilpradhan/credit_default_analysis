@@ -1,0 +1,49 @@
+The deployed API url is in the assignment report Chapter 4, and all the other essential details are in the report.
+
+If you want to quickly run the API endpoint, here is the link and path
+
+https://jsjkxmsbgislifpx6mo7ubksgm0eviqr.lambda-url.eu-north-1.on.aws/predict
+
+INPUT:
+{
+    "num_arch_ok_0_12m": [9.0],
+    "num_unpaid_bills": [0.0],
+    "avg_payment_span_0_12m": [null],
+    "age": [25.0],
+    "max_paid_inv_0_24m": [13749.0],
+    "account_status": [1.0],
+    "account_worst_status_0_3m":[null],
+    "account_worst_status_12_24m": [1.0],
+    "account_worst_status_3_6m": [1.0],
+    "account_worst_status_6_12m": [1.0],
+    "uuid": ["1234"]
+}
+
+OUTPUT:
+
+{
+    "uuid": {
+        "0": "1234"
+    },
+    "default": {
+        "0": 0.9846019744873047
+    }
+}
+
+
+
+* To run the scripts in this project:
+ -make a virtual environment and install all dependencies in the requirements.txt
+
+* The scripts folder has all the jupyter notebooks used to produce all the results.
+
+
+
+
+
+
+
+
+
+
+

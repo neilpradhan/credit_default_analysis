@@ -1,0 +1,6 @@
+data['account_incoming_debt_vs_paid_0_24m'].plot(ax=ax[0,0])
+data['avg_payment_span_0_12m'].plot(ax=ax[0,1])
+data['avg_payment_span_0_3m'].plot(ax=ax[1,0])
+data['num_active_div_by_paid_inv_0_12m'].plot(ax=ax[1,1])
+
+
