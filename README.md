@@ -1,6 +1,7 @@
 # credit_default_analysis
 
+A complete end-to-end machine learning project from model building to deployment in AWS Lambda, built using data coming from real fintech company
 
-Real data from a Fintech Company and data on German Credit Default analysis
+The report can be found here:
 
 
