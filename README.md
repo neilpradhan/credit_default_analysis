@@ -41,6 +41,8 @@ OUTPUT:
 
 * The [scripts](https://github.com/neilpradhan/credit_default_analysis/tree/main/scripts) folder has all the jupyter notebooks used to produce all the results.
 
+* This is the youtube video detailing the procedure to deploy the model on AWS lambda : https://www.youtube.com/watch?v=Edk7c-tewPY&t=3s
+
 
 
 
