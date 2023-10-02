@@ -4,7 +4,7 @@ A complete end-to-end machine learning project from model building to deployment
 
 [Project report](https://github.com/neilpradhan/credit_default_analysis/blob/main/Credit_Default_Analysis.pdf)
 
-The deployed API url is in the assignment report Chapter 4, and all the other essential details are in the report.
+The deployed API URL is in the project report Chapter 4, and all the other essential details are in the report.
 
 ```
 
@@ -41,7 +41,7 @@ OUTPUT:
 
 * The [scripts](https://github.com/neilpradhan/credit_default_analysis/tree/main/scripts) folder has all the jupyter notebooks used to produce all the results.
 
-* This is the youtube video detailing the procedure to deploy the model on AWS lambda : https://www.youtube.com/watch?v=Edk7c-tewPY&t=3s
+* This is the YouTube video detailing the procedure to deploy the model on AWS lambda created by me: https://www.youtube.com/watch?v=Edk7c-tewPY&t=3s
 
 
 
