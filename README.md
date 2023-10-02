@@ -1,6 +1,6 @@
 # Credit Default Analysis
 
-A complete end-to-end machine learning project from model building to deployment in AWS Lambda, built using data coming from real fintech company
+A complete end-to-end machine learning project from model building to deployment in AWS Lambda, built using data coming from a real fintech company. The problem statement is to predict the probability of credit default for an individual given their historical record with the company.
 
 [Project report](https://github.com/neilpradhan/credit_default_analysis/blob/main/Credit_Default_Analysis.pdf)
 
